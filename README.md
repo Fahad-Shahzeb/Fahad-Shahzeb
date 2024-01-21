@@ -1,5 +1,5 @@
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devpenzil) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-shahzeb) 
  [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://github.com/fahad-shahzeb) 
 [![Instagram](https://img.shields.io/badge/Instagram-E34F26.svg?logo=instagram&logoColor=white)](https://instagram.com/_faadayy_) 
 
