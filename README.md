@@ -39,6 +39,7 @@
 
 ## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br />
+
+---
 ![](https://visitcount.itsvg.in/api?id=Fahad-Shahzeb&color=0&icon=0&pretty=false)
 
