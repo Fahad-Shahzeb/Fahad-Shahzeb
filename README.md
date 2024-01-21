@@ -9,6 +9,15 @@
 [![SASS](https://img.shields.io/badge/SASS-cc6699.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+**JavaScript Libraries and Frameworks**
+
+[![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-4169E1.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![ReactNative](https://img.shields.io/badge/react-native-339933.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 **Server-Side Technologies**
 
@@ -25,6 +34,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fahad-shahzeb&theme=dark&hide_border=true)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-shahzeb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Quote of the Day
