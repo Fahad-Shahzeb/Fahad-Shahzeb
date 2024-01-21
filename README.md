@@ -1,6 +1,9 @@
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devpenzil) 
+ [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://github.com/fahad-shahzeb) 
+[![Instagram](https://img.shields.io/badge/Instagram-E34F26.svg?logo=instagram&logoColor=white)](https://instagram.com/_faadayy_) 
 
-
-# My skill sets. 🧰
+# 💻 Technologies 
 
 **Markup Languages**
 
@@ -9,13 +12,13 @@
 [![SASS](https://img.shields.io/badge/SASS-cc6699.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-**JavaScript Libraries and Frameworks**
+**Front-end Technologies**
 
 [![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-4169E1.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![ReactNative](https://img.shields.io/badge/react-native-339933.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![ReactNative](https://img.shields.io/badge/react_native-339933.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
@@ -25,11 +28,21 @@
 [![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=%white)](https://expressjs.com/)
 [![Nest.js](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+**Cloud Platforms**
+
+[![Firebase](https://img.shields.io/badge/firebase-F05032.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![DigitalOcean](https://img.shields.io/badge/digital_ocean-0769AD.svg?style=for-the-badge&logo=digitalocean&logoColor=white)](https://firebase.google.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/amazon%20aws-232F3E.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)](https://aws.amazon.com/)
 
 **Other Tools**
 
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![XCode](https://img.shields.io/badge/XCode-0769AD.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/)
+[![XCode](https://img.shields.io/badge/Android_Studio-0769AD.svg?style=for-the-badge&logo=androidstudio&logoColor=white)](https://github.com/)
 
 
 # 📊 GitHub Stats:
@@ -40,6 +53,5 @@
 ## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-![](https://visitcount.itsvg.in/api?id=Fahad-Shahzeb&color=0&icon=0&pretty=false)
+![](https://visitcount.itsvg.in/api?id=fahad-shahzeb&color=0&icon=0&pretty=false)
 
