@@ -1,3 +1,6 @@
+## 👨‍💻 About me
+*I am a seasoned software engineer specializing in React Native, React, Next.js, and backend technologies like Node.js, Express.js, and Nest.js. With 2 years of experience, I am passionate about crafting seamless and innovative mobile applications. My expertise lies in bridging the gap between frontend and backend development, ensuring a holistic approach to software engineering. Let's bring ideas to life through code!*
+
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-shahzeb) 
  [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://github.com/fahad-shahzeb) 
