@@ -42,9 +42,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-shahzeb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Quote of the Day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)]
 
 <br/>
 ___
 
-[![](https://visitcount.itsvg.in/api?id=Fahad-Shahzeb&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Fahad-Shahzeb&color=0&icon=0&pretty=false)]
