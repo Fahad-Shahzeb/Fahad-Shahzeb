@@ -3,7 +3,7 @@
  [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://github.com/fahad-shahzeb) 
 [![Instagram](https://img.shields.io/badge/Instagram-E34F26.svg?logo=instagram&logoColor=white)](https://instagram.com/_faadayy_) 
 
-# 💻 Technologies 
+## 💻 Technologies 
 
 **Markup Languages**
 
@@ -41,11 +41,11 @@
 
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![XCode](https://img.shields.io/badge/XCode-0769AD.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/)
-[![XCode](https://img.shields.io/badge/Android_Studio-0769AD.svg?style=for-the-badge&logo=androidstudio&logoColor=white)](https://github.com/)
+[![XCode](https://img.shields.io/badge/XCode-0769AD.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![XCode](https://img.shields.io/badge/Android_Studio-0769AD.svg?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fahad-shahzeb&theme=dark&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-shahzeb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
