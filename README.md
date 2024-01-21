@@ -12,11 +12,14 @@
 [![SASS](https://img.shields.io/badge/SASS-cc6699.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+**Programming Languages**
+
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 **Front-end Technologies**
 
 [![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-4169E1.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![ReactNative](https://img.shields.io/badge/react_native-339933.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
